@@ -100,7 +100,7 @@ nav ul li a:hover::after{
 /*--------------------------------*/
 
 .lg-heading{
-    font-family: 'rage';
+    font-family: 'rage', cursive;
     font-size: 6rem; 
     margin-bottom: 1.3rem;
     letter-spacing: 2px;
@@ -127,7 +127,7 @@ nav ul li a:hover::after{
 
 
 .about-area{
-  padding: 3rem 5rem;
+  padding: 3rem 2rem;
 }
 
 .about-area h2 > span{
@@ -310,7 +310,7 @@ nav ul li a:hover::after{
  }
  .text-center{
   margin-top: 70px;
-  margin-left: 100px;
+  margin-left: 0px;
 }
 
  p{
