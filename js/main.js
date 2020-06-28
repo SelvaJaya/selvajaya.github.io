@@ -18,7 +18,7 @@
 //scroll
 
   window.sr= ScrollReveal();
-  sr.reveal('.sm-heading',{duration:1000});
+  sr.reveal('.lg-heading',{duration:1000});
   sr.reveal('#menuBtn',{duration:1000});
   sr.reveal('button',{duration:1000});
   sr.reveal('',{duration:1000});
